@@ -12,10 +12,6 @@
         android:theme="@style/Theme.Words"
         tools:ignore="AllowBackup">
         <activity
-            android:name="com.eyanaffeti.words.DetailActivity"
-            android:exported="false"
-            android:parentActivityName="com.eyanaffeti.words.MainActivity" />
-        <activity
             android:name="com.eyanaffeti.words.MainActivity"
             android:exported="true">
             <intent-filter>

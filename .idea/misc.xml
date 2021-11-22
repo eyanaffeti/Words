@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/layout/activity_detail.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/layout/item_view.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/menu/layout_menu.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/ASUS/Downloads/Words_starter_code/Words/app/src/main/res/menu/layput_menu.xml" value="0.25052083333333336" />
